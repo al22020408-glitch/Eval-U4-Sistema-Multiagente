@@ -69,8 +69,8 @@ retail_multiagente/
 ### Paso 1 — Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/retail_multiagente.git
-cd retail_multiagente
+git clone https://github.com/al22020408-glitch/Eval-U4-Sistema-Multiagente.git
+cd retail_multiagente (1)
 ```
 
 ### Paso 2 — Crear entorno virtual (recomendado)
@@ -162,9 +162,9 @@ Recibe el archivo cargado por el usuario, invoca los tres agentes en orden secue
 
 | Nombre | Rol |
 |--------|-----|
-| Integrante 1 | Agente 1 (EDA) + Interfaz |
-| Integrante 2 | Agente 2 (Limpieza) + Orquestador |
-| Integrante 3 | Agente 3 (Predicción) + README |
+| Alondra      | Agente 1 (EDA) + Interfaz |
+| Maria        | Agente 2 (Limpieza) + Orquestador |
+| Araceli      | Agente 3 (Predicción) + README |
 
 ---
 
